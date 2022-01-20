@@ -44,5 +44,15 @@ For Android
 
 
 
+First Screen
+
+<img width="325" alt="Screenshot 2022-01-20 at 4 30 00 PM" src="https://user-images.githubusercontent.com/12965388/150338706-4241c031-49af-4f91-8cbb-ac126be479f1.png">
+
+Second Screen for set the limit
+
+
+<img width="329" alt="Screenshot 2022-01-20 at 4 30 12 PM" src="https://user-images.githubusercontent.com/12965388/150338928-cd90b282-36af-4fe8-aa20-37f538fe0b08.png">
+
+<img width="322" alt="Screenshot 2022-01-20 at 6 00 56 PM" src="https://user-images.githubusercontent.com/12965388/150339140-8bd16951-0ffc-4078-9a1d-d39c116f9476.png">
 
  
