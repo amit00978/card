@@ -1,0 +1,18 @@
+const PRIMARY_COLOR="#0d365a"
+const SECOND_PRIMARY_COLOR="#00d067"
+const DISABLE_COLOR="#a8a8a8"
+const SERVICES="#325baf"
+const THRID_PRIMARY_COLOR="#effcf5"
+const DARK_TEXT="#242424"
+
+const color={
+    PRIMARY_COLOR,
+    SECOND_PRIMARY_COLOR,
+    DISABLE_COLOR,
+    SERVICES,
+    THRID_PRIMARY_COLOR,
+    DARK_TEXT
+}
+export {
+   color
+}
